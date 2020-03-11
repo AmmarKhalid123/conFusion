@@ -3,6 +3,7 @@ $background-dark: #512DA8;
 $background-light: #9575CD;
 $background-pale: #D1C4E9;
 
+
 // Height variables
 $carousel-item-height: 300px;
 
@@ -10,6 +11,7 @@ $carousel-item-height: 300px;
     margin: 0px auto;
     padding: $pad-up-dn $pad-left-right;
 }
+
 
 .row-header {
     @include zero-margin(0px, 0px);
